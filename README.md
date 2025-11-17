@@ -15,7 +15,7 @@
 
 *   **Бэкенд & Скрипты:** Python, Java
 *   **Мобильная Разработка:** Kotlin, Flutter
-*   **ОС & Окружение:** Arch Linux, Terminal, Vim/Neovim
+*   **ОС & Окружение:** Arch Linux, Terminal, Sublime Text
 *   **Инструменты:** Git, Docker, Maven/Gradle
 
 ### 📈 Статистика GitHub
