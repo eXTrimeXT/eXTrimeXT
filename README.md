@@ -90,7 +90,7 @@ me = AboutMe()
 
 Пишу чистый код. Выбираю инструменты осознанно.
 
-<p><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"> — это не просто ОС, это философия минимализма и контроля. </p>
+Arch Linux — это не просто ОС, это философия минимализма и контроля. </p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=extrimext&color=blueviolet&style=flat-square" alt="Посетители профиля" /> 
